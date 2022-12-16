@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel = "stylesheet" href="files/style.css">
+    <script src = "files/script.js"></script>
+    <title>Lab 3</title>
+</head>
+<body>
+
+<ul style="list-style-type: none">
+    <li><button class ="create_table" onclick = "createTable(); ">
+        Создать таблицу</button></li>
+    <li><button disabled id ="addRow" onclick = "addRow()">Добавить строку</button></li>
+    <li>
+        <button disabled id ="deleteRow" onclick = "deleteRow()">Удалить строку по номеру</button>
+        <label for = 'number'></label><input disabled id = 'number' type = "number" value = "null">
+    </li>
+</ul>
+</body>
+</html>
