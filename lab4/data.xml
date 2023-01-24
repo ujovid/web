@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+
+  <student><id>1</id><name>Алексей Попов</name><phone>9876554321</phone><time>423432</time></student>
+
+
+
+  
+
+<student><id>6</id><name>Хокинг</name><phone>988554463</phone><time>16:00</time></student><student><id>7</id><name>Чел</name><phone>978656756</phone><time>20:00</time></student></students>
